@@ -1,7 +1,8 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
 **Student ID:** AI20K-2A202600283
-**Name:** Phu Phung
+**Student email** : phungphu02@gmail.com
+**Name:** Phung Huu Phu
 **Date:** 2026-04-15
 
 ---
