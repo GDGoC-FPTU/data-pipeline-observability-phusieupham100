@@ -2,7 +2,7 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student Email:** 26ai.phuph@vinuni.edu.vn
-**Student ID:** AI20K-XXXX
+**Student ID:** AI20K-2A202600283
 **Name:** Phu Phung
 
 
